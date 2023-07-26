@@ -1,7 +1,7 @@
 {
-    "name": "badaso/starter",
+    "name": "madtechservices/edubox-starter",
     "type": "project",
-    "description": "Badaso starter project.",
+    "description": "eduBOX starter project.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
